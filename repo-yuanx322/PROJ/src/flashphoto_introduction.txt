@@ -1,0 +1,29 @@
+The Flashphoto application is a graphic application. For a user who wants to
+use the Flashphoto application, the user can double click the executable in
+<directory to PROJ>/build/bin/ directory. The user can also input the directory
+in terminal like <directory to PROJ>/build/bin/flashphoto to open the application.
+The Flashphoto application has a GUI window called canvas that user can draw, open
+images, apply filters and save the graph on canvas to a location. In Flashphoto,
+there are seven tools and eight filters. Tools are Pen, Caligraphy Pen, Chalk,
+Highlighter, Spray Can, Blur and Eraser. Filters are Blur Filter, Motion Blur Filter,
+Sharpen Filter, Edge Detect Filter, Threshold Filter, Saturate Filter, Adjust R,G,B
+Filter and Quantize Filter.
+The pen tool is a pen which can be used to draw marks like a real pen. The caligraphy
+pen tool is a special pen, which is called caligraphy pen. The chalk tool acts like
+using a chalk on board. The highlighter tool works as a general highlighter. A spary can
+tool works like a spray can, so the longer applying spray can to one spot, the darker
+that spot will be. A blur tool is a specialized blur filter. A blur tool only blurs the
+position that the mouse drags through. A eraser tool can erase all marks on canvas.
+Use can open file through Open button and save file through Save button.
+The Blur Filter is used to make the whole image blur. User can adjust the blur
+amount. The Motion Blur Filter can blur the whole image in four directions. The four
+directions are North-south, East-west, Northeast-Southwest and Northwest-Southeast.
+The Sharpen Filter can sharpen the whole image. User can adjust the sharpen amount.
+The Edge Detect Filter can print out the outline of the image. The Threshold Filter
+can adjust the graph to black and white by a user input called cutoff value. All
+pixel with a color data greater than the cutoff value will be turned to white. All
+pixel with a color data smaller than the cutoff value will be turned to black. The
+Saturate Filter can increase or decrease the colorfulness of the image. The Channels
+Filter can independently scale up or down the intensity of each color channel (red,
+green, and blue). So, this filter in application is called Adjust R,G,B. The Quantize
+Filter will reduce the number of colors in the image by binning.

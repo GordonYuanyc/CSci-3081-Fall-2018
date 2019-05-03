@@ -1,0 +1,6 @@
+PROJECT_NAME = "ImageIO"
+OUTPUT_DIRECTORY = build/doc
+INPUT = doc . test
+EXCLUDE = impl
+FILE_PATTERNS = *.cc *.h
+EXAMPLE_PATH = test
